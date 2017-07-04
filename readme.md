@@ -1,1 +1,1 @@
-# Laravel vue element 1.0
+# Laravel vue element
