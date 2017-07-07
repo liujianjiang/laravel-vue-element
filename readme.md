@@ -1,6 +1,5 @@
-# Laravel
-# vue
-# element
+# Laravel+vue+element开发的后台管理系统
+
 
 ![vueadmin](https://github.com/larlence100/laravel-vue-element/blob/master/public/images/7.png)
 ![vueadmin](https://github.com/larlence100/laravel-vue-element/blob/master/public/images/1.png)
